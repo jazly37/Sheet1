@@ -1,0 +1,6 @@
+<options>
+    <sound master_vol="83" music_vol="70" sfx_vol="90" speech_vol="60" master_on="true" music_on="true" sfx_on="true" speech_on="true" subtitles_on="true" />
+    <graphics ssao="0" msaa="0" dof="false" terrain_detail="1" terrain_shader="3" terrain_detail_textures="true" rim_light="false" bloom="0" tone_mapping="true" lod_scaling="0" dynamic_lights="true" vertical_sync="false" shadow_quality="0" particle_detail="0" water_detail="0" texture_detail="0" overall="0" x_res="1600" y_res="900" fullscreen="true" />
+    <gameplay autosave_index="1" single_player_max_buildings="200" single_player_max_troops="400" />
+    <profile use_steam_persona="false" custom_name="Bulllion" shield_id="3" email="" wants_news="true" send_state="1" />
+</options>

@@ -1,0 +1,143 @@
+<campaign_manager_state current_campaign="shc2_skirmish_05" latest_story_campaign="shc2_01" latest_trail_campaign="shc2_skirmish_05" source_filename="campaigns/shc2_campaigns.xml" current_chapter="1" current_mission="5" current_difficulty="1">
+    <campaigns>
+        <campaign name="shc2_skirmish_02" unlocked="true" lock_dirty="false" latest_unlocked_mission="4" latest_played_mission="0" latest_completed_mission="4">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="true" />
+                <mission id="2" unlocked="true" completed="true" />
+                <mission id="3" unlocked="true" completed="true" />
+                <mission id="4" unlocked="true" completed="true" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_skirmish_03" unlocked="true" lock_dirty="false" latest_unlocked_mission="6" latest_played_mission="0" latest_completed_mission="5">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="true" />
+                <mission id="2" unlocked="true" completed="true" />
+                <mission id="3" unlocked="true" completed="true" />
+                <mission id="4" unlocked="true" completed="true" />
+                <mission id="5" unlocked="true" completed="true" />
+                <mission id="6" unlocked="true" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_03" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+                <mission id="3" unlocked="false" completed="false" />
+                <mission id="4" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_freebuild" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="true" completed="false" />
+                <mission id="3" unlocked="true" completed="false" />
+                <mission id="4" unlocked="true" completed="false" />
+                <mission id="5" unlocked="true" completed="false" />
+                <mission id="6" unlocked="true" completed="false" />
+                <mission id="7" unlocked="true" completed="false" />
+                <mission id="8" unlocked="true" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_02" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+                <mission id="3" unlocked="false" completed="false" />
+                <mission id="4" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_tutorial" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_05" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_skirmish_01" unlocked="true" lock_dirty="false" latest_unlocked_mission="3" latest_played_mission="0" latest_completed_mission="3">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="true" />
+                <mission id="2" unlocked="true" completed="true" />
+                <mission id="3" unlocked="true" completed="true" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_04" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_01" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+                <mission id="3" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_skirmish_06" unlocked="true" lock_dirty="false" latest_unlocked_mission="1" latest_played_mission="0" latest_completed_mission="0">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="false" />
+                <mission id="2" unlocked="false" completed="false" />
+                <mission id="3" unlocked="false" completed="false" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_skirmish_04" unlocked="true" lock_dirty="false" latest_unlocked_mission="3" latest_played_mission="0" latest_completed_mission="3">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="true" />
+                <mission id="2" unlocked="true" completed="true" />
+                <mission id="3" unlocked="true" completed="true" />
+            </missions>
+        </campaign>
+        <campaign name="shc2_skirmish_05" unlocked="true" lock_dirty="false" latest_unlocked_mission="5" latest_played_mission="4" latest_completed_mission="4">
+            <chapters>
+                <chapter id="1" unlocked="true" />
+            </chapters>
+            <missions>
+                <mission id="1" unlocked="true" completed="true" />
+                <mission id="2" unlocked="true" completed="true" />
+                <mission id="3" unlocked="true" completed="true" />
+                <mission id="4" unlocked="true" completed="true" />
+                <mission id="5" unlocked="true" completed="false" />
+            </missions>
+        </campaign>
+    </campaigns>
+</campaign_manager_state>
